@@ -50,16 +50,24 @@
 | **Fold (폴드)** | 패가 안 좋다고 판단하면 포기합니다. 현재까지 건 칩은 모두 잃게 됩니다. |
 
 
-## 3.  실행 결과 (Screenshots)
+## 3.  실행 결과 
+
+나올 수 있는 결과가 꽤 많아서 다 담기가 힘드므로 직접 실행해보고 즐겨보시길 추천합니다. 
 
 ### 3-1. 게임 시작 및 메인 화면
 <img width="772" height="470" alt="image" src="https://github.com/user-attachments/assets/3fb80d19-9323-48bf-8ecb-ad9a3f3a3ca6" />
 
 
 ### 3-2. 타짜 기술 시도 및 심리전
+위 사진에서 2번을 선택하고 실패할 경우
+
 <img width="691" height="388" alt="image" src="https://github.com/user-attachments/assets/ac111e55-3d7a-4474-94ab-c555ddfdc93d" />
 
+위 사진에서 2번을 선택하고 성공할 경우
+
 <img width="637" height="228" alt="image" src="https://github.com/user-attachments/assets/518e0d6d-51b2-4771-8acc-5c2ddaf90dbf" />
+
+컴퓨터가 밑장빼기를 하다 걸린 경우
 
 <img width="677" height="396" alt="image" src="https://github.com/user-attachments/assets/d40ed30b-878f-4739-8080-5d1bb6a7770f" />
 
