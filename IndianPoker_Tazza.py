@@ -56,8 +56,8 @@ class IndianPokerGame:
     def reset_game(self):
         """게임을 처음 상태로 되돌립니다."""
         self.deck = Deck()
-        self.p_chip = 30
-        self.c_chip = 30
+        self.p_chip = 20
+        self.c_chip = 20
         self.starter = "Player"
         self.pot = 0
 
